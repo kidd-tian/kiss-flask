@@ -19,3 +19,9 @@ script/bootstrap
 ```
 .bootstrap/ve pip install Flask-Cache
 ```
+
+### Run it
+
+```
+.virtualenv/bin/python run.py
+```
