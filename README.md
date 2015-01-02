@@ -26,8 +26,14 @@ see [here](https://github.com/baijian/ve) to install `ve`
 ve pip install Flask-Cache
 ```
 
+### Init database
+
+```
+ve python manage.py create
+```
+
 ### Run it
 
 ```
-ve python run.py
+ve python manage.py run 
 ```
