@@ -14,14 +14,20 @@ flask project demo
 script/bootstrap
 ```
 
+### Install ve
+
+`ve` is a tool like `bundle` in `ruby on rails`
+
+see [here](https://github.com/baijian/ve) to install `ve`
+
 ### Install python module
 
 ```
-.bootstrap/ve pip install Flask-Cache
+ve pip install Flask-Cache
 ```
 
 ### Run it
 
 ```
-.virtualenv/bin/python run.py
+ve python run.py
 ```
